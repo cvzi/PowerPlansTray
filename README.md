@@ -9,9 +9,10 @@ Requires:
  * [pywin32](http://sourceforge.net/projects/pywin32/) 
  * [SysTrayIcon.py](http://www.brunningonline.net/simon/blog/archives/SysTrayIcon.py.html)
 
-Tested with Windows 10
-Run with pyw.exe or pythonw.exe to avoid the command line to open
+Tested with Windows 10.
+
+Run with `pyw.exe` or `pythonw.exe` to avoid the command line to open.
 
 To run it at **windows startup**:
-Press Win + R and run shell:startup to open to Autorun folder
-Create a new shortcut and point it to "pyw C:\your\path\to\powertray.pyw"
+ * Press Win + R and run `shell:startup` to open the Autorun folder
+ * Create a new shortcut and point it to `pyw C:\your\path\to\powertray.pyw`
