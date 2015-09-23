@@ -16,3 +16,5 @@ Run with `pyw.exe` or `pythonw.exe` to avoid the command line to open.
 To run it at **windows startup**:
  * Press Win + R and run `shell:startup` to open the Autorun folder
  * Create a new shortcut and point it to `pyw C:\your\path\to\powertray.pyw`
+ 
+ ![Screenshot of tray icon](https://raw.githubusercontent.com/cvzi/PowerPlansTray/master/screenshot.png)
